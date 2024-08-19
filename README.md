@@ -1,6 +1,8 @@
 # hotel-bookings
 
-This is a basic hotel booking web project
+This is a basic hotel booking web project.
+
+This project is created to showcase a sample Java and NextJS web project which can be customized to any bussiness context.
 
 It consists of;
 
